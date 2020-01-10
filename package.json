@@ -6,6 +6,7 @@
   "main": "main.js",
   "dependencies": {
     "colormap": "2.3.1",
+    "install-peers": "^1.0.3",
     "ol": "^6.0.0-beta.6",
     "ol-geocoder": "^4.0.0",
     "ol-hashed": "2.0.0",
@@ -13,7 +14,7 @@
     "ol-mapbox-style": "4.3.1"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "5.0.2",
+    "copy-webpack-plugin": "^5.1.1",
     "css-loader": "2.1.1",
     "eslint": "5.16.0",
     "eslint-config-openlayers": "11.0.0",
